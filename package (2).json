@@ -1,0 +1,13 @@
+{
+  "name": "lakeside-whale-bot",
+  "version": "1.0.0",
+  "description": "Institutional Whale Radar Bot",
+  "main": "bot.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "node-fetch": "^2.7.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
